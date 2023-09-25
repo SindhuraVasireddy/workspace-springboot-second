@@ -1,0 +1,3 @@
+create database mc_order_service; 
+create user mc_order_service; 
+grant all privileges on mc_order_service.* to mc_order_service;

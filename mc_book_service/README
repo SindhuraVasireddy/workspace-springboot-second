@@ -1,0 +1,3 @@
+create database mc_book_service; 
+create user mc_book_service; 
+grant all privileges on mc_book_service.* to mc_book_service;
